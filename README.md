@@ -10,8 +10,6 @@
  ┣ 📂data
  ┃ ┣ 📜day.csv
  ┃ ┗ 📜hour.csv
- ┣ 📜day.csv
- ┣ 📜hour.csv
  ┣ 📜Proyek_Analisis_Data_Fadlila.ipynb
  ┣ 📜README.md
  ┗ 📜requirements.txt
